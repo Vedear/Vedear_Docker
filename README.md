@@ -7,22 +7,22 @@
 
 Данный проект так же включает в себя тренировки по работе с Bash-скриптами для более лучшего понимая работы Docker.
 
-[Bash-scripring](/Bash_Project/Bash.md)
+[Bash-scripring](/Bash_Project/README.md)
 
 ## Работа с Apache
 
 В данном файле описаны шаги работы с Docker и Apache
 
-[Apache](/Apache_Project/Apache.md)
+[Apache](/Apache_Project/README.md)
 
 ## Работа с cAdvisor
 
 В данном файле описаны шаги работы с Docker и cAdvisor
 
-[cAdvisor](/cAvisor_Project/cAdvisor.md)
+[cAdvisor](/cAvisor_Project/README.md)
 
 ## Ubuntu in Docker
 
 Работа с Ubuntu в качестве контейнера в Docker
 
-[Ubuntu in Docker](/Ubuntu_in_Docker/Ubuntu.md)
+[Ubuntu in Docker](/Ubuntu_in_Docker/README.md)
