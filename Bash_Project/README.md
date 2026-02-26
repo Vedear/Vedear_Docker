@@ -10,5 +10,7 @@
 7) Подсчёт файлов с указанным расширением [7_scaner.sh](/Bash_Project/Scripts/7_scaner.sh)
 8) Автоматическая синхронизация репозиториев [Auto_Sync.sh](/Bash_Project/Scripts/Auto_Sync.sh)
     1. Скриншот результата ![alt text](img/image.png)
-9) Автоматическое обновления установленных программ [Auto_Upgrade.bat](/Bash_Project/Scripts/Auto_Upgrade.bat)
+9) Автоматическое обновление установленных программ для Windows в Power Shell (без winget) [Auto_Upgrade.bat](/Bash_Project/Scripts/Auto_Upgrade.bat)
     1. Скриншот результата ![alt text](img/image1.png)
+10) Автоматическое обновление установленных программ для Ubuntu [Auto_Upgrade_lin.sh](/Bash_Project/Scripts/Auto_Upgrade_lin.sh)
+    1. Скриншот результата ![alt text](img/image2.png)
