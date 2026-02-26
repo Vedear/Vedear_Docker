@@ -8,3 +8,5 @@
 5) Подсчёт строк в файле [5_counter.sh](/Bash_Project/Scripts/5_counter.sh)
 6) Генерация случайного пароля [6_passgen.sh](/Bash_Project/Scripts/6_passgen.sh)
 7) Подсчёт файлов с указанным расширением [7_scaner.sh](/Bash_Project/Scripts/7_scaner.sh)
+8) Автоматическая синхронизация репозиториев [Auto_Sync.sh](/Bash_Project/Scripts/Auto_Sync.sh)
+    1. Скриншоты результатов ![alt text](img/image.png)
