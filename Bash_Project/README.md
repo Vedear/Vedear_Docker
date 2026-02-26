@@ -9,4 +9,6 @@
 6) Генерация случайного пароля [6_passgen.sh](/Bash_Project/Scripts/6_passgen.sh)
 7) Подсчёт файлов с указанным расширением [7_scaner.sh](/Bash_Project/Scripts/7_scaner.sh)
 8) Автоматическая синхронизация репозиториев [Auto_Sync.sh](/Bash_Project/Scripts/Auto_Sync.sh)
-    1. Скриншоты результатов ![alt text](img/image.png)
+    1. Скриншот результата ![alt text](img/image.png)
+9) Автоматическое обновления установленных программ [Auto_Upgrade.bat](/Bash_Project/Scripts/Auto_Upgrade.bat)
+    1. Скриншот результата ![alt text](img/image1.png)
