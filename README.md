@@ -67,51 +67,51 @@
 
 В данном файле описана работа Adminer в Docker
 
-[Adminer]()
+[Adminer](/Adminer_Project/README.md)
 
 ## Работа с Pcb2gcode
 
 В данном файле описана работа Pcb2gcode в Docker
 
-[Pcb2gcode]()
+[Pcb2gcode](/Pcb2gcode_Project/README.md)
 
 ## Работа с Metasploitable2 docker
 
 В данном файле описана работа Metasploitable2 в Docker
 
-[Metasploitable2]()
+[Metasploitable2](/Metasploitable2_Project/README.md)
 
-## Работа с Alt Linux
+## ~~Работа с Alt Linux~~ (В процессе)
 
 В данном файле описана работа Alt Linux в Docker
 
 [Alt Linux]()
 
-## Работа с Python
+## ~~Работа с Python~~ (В процессе)
 
 В данном файле описана работа Python в Docker
 
 [Python]()
 
-## Работа с Node.js
+## ~~Работа с Node.js~~ (В процессе)
 
 В данном файле описана работа Node.js для JavaScript в Docker
 
 [Node.js]()
 
-## Работа с БД Redis
+## ~~Работа с БД Redis~~ (В процессе)
 
 В данном файле описана работа Redis в Docker
 
 [Redis]()
 
-## Работа с HTTP-сервером для раздачи файлов
+## ~~Работа с HTTP-сервером для раздачи файлов~~ (В процессе)
 
 В данном файле описана работа HTTP-сервера для раздачи файлов в Docker
 
 [Раздача файлов]()
 
-## Работа с Файловым обменником
+## ~~Работа с Файловым обменником~~ (В процессе)
 
 В данном файле описана работа Файлового обменника в Docker
 
